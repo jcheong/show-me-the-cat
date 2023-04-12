@@ -2,4 +2,4 @@
 
 Description
 
-A Website with button that show random image of cats when you clicked
+A Website with a button that show random image of cats when you click it.
