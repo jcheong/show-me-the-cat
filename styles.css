@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.container img {
+    display: inline-block;
+    margin: 20px;
+}
+
+.container button {
+    display: block;
+    margin: auto;
+}
